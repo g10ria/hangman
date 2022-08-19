@@ -4,7 +4,7 @@ This repository contains two versions of hangman solvers. Both solvers are imple
 The first version is written in C, and the second version is written in Java.
 
 
-# RUNNING HANGMAN (C VERSION)
+# Running C version
 
 Using make:
 ```
@@ -19,7 +19,7 @@ $ gcc -o bin/hangman hangman.o -I/headers
 $ ./bin/hangman.exe
 ```
 
-# RUNNING HANGMAN (JAVA VERSION)
+# Running Java version
 
 Requires Java JRE:
 ```
